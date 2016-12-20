@@ -1,0 +1,2 @@
+yaakovGreater.sayHello();
+johnGreater.sayGoodby();
