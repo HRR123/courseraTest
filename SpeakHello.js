@@ -1,11 +1,11 @@
 (function (window) {
-  var yaakovGreater = {};
-  yaakovGreater.name = "Yaakov ";
-  var greating = "Hello ";
-  yaakovGreater.sayHello = function () {
-    console.log(greating + yaakovGreater.name);
+  var yaakovGreeter = {};
+  yaakovGreeter.name = "Yaakov";
+  var greeting = "Hello ";
+  yaakovGreeter.sayHello = function () {
+    console.log(greeting + yaakovGreeter.name);
   }
 
-  window.yaakovGreater = yaakovGreater;
+  window.yaakovGreeter = yaakovGreeter;
 
 })(window);
