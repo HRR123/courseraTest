@@ -1,5 +1,5 @@
-yaakovGreeter.sayHello();
-johnGreeter.sayHi();
+//yaakovGreeter.sayHello();
+//johnGreeter.sayHi();
 
 // Immediately Invoked Function Expression
 // IIFE
